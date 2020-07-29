@@ -1,4 +1,4 @@
-# karupanerura
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=karupanerura)](https://github.com/anuraghazra/github-readme-stats)
 
 Software Engineer
 
@@ -6,5 +6,3 @@ Software Engineer
 - Go
 - TypeScript
 - Java
-
-etc..
