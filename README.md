@@ -1,9 +1,9 @@
-[![karupanerura's github stats](https://github-readme-stats.vercel.app/api?username=karupanerura)](https://github.com/karupanerura/github-readme-stats)
-![karupanerura's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karupanerura)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karupanerura&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karupanerura&theme=default)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karupanerura&theme=default)
 
 Software Engineer
 
-- Perl
-- Go
-- TypeScript
-- Java
+* Perl
+* Go
+* TypeScript
+* Java
